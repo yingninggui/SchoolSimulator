@@ -1,8 +1,8 @@
 # SCHOOL SIMULATOR
 
-#### The purpose of the game School Simulator is to successfully operate an educational institution (high school). This success is measured monetarily and certain milestones allow for advancement opportunities. The Player is a principal who runs the high school and must use his money to purchase and build facilities in order operate. Every subject differentiates by statistics. For example, math would have a higher grade and a lower happiness level than art: a labor-leisure trade off. Furthermore, there is a statistics header bar consisting of the Player’s cash balance, student happiness level, student grade level, time, and points (net worth). 
+##### The purpose of the game School Simulator is to successfully operate an educational institution (high school). This success is measured monetarily and certain milestones allow for advancement opportunities. The Player is a principal who runs the high school and must use his money to purchase and build facilities in order operate. Every subject differentiates by statistics. For example, math would have a higher grade and a lower happiness level than art: a labor-leisure trade off. Furthermore, there is a statistics header bar consisting of the Player’s cash balance, student happiness level, student grade level, time, and points (net worth). 
 
-### In this folder, there are 6 types of files. They will be referred to by (number). 
+### In this folder, there are 6 types of files.
 
 	(1) **SchoolSimulator.py** and (2) **SchoolSimulator.txt** are the code for the entire program in python and text file format, respectively. 
 
